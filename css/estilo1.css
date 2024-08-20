@@ -1,0 +1,14 @@
+*{
+    margin: 10px
+}
+
+h1 {
+    color: red;
+    
+}
+
+body {
+    color: aquamarine;
+    font-style: italic;
+    background-color: gray; 
+}
